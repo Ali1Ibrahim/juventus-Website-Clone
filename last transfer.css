@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One|Homemade+Apple|Khand|Marvel|Orbitron|Sintony');
+*
+
+
+#nav{
+	list-style: none;
+	text-align: center;
+	background-color: black ;
+	padding: 0 ;
+}
+
+#nav li{
+	color:white;
+	display:inline ;
+	text-align: center;
+	color: white ;
+	background-color: black ; 
+font-family: 'Orbitron', sans-serif;
+
+
+
+}
+#nav a{
+	color: white ;
+	text-decoration: none ;
+	padding: 20px ;
+	display: inline-block; 
+
+}
+a:hover{
+	background-color: grey ;
+}
+
+#top{
+display: block;
+text-align: center; 
+font-family: 'Marvel', sans-serif;
+color: white ;
+font-size: 50px ;
+}
+
+#top2{
+	font-family: 'Marvel', sans-serif;
+	color : white;
+	font-size: 30px ;
+
+}
+#top3{
+		font-family: 'Marvel', sans-serif;
+		color: white ;
+		font-size: 30px ;
+
+}
+
